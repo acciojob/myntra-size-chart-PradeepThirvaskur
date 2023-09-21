@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+th {
+    background-color: maroon;
+    color: white;
+    text-align: left;
+}
+td{
+    background-color: rgb(233, 21, 120);
+    color: whitesmoke;
+    text-align: justify;
+}
+table {
+    width: 600px;
+    height: 25px;
+    border: 1px solid black;
+}
